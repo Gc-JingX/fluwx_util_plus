@@ -1,7 +1,7 @@
 name: fluwx_util_plus
-description: A new Flutter project.
+description: 企业微信授权登录，分享等
 version: 0.0.1
-homepage:
+homepage: https://github.com/Gc-JingX/fluwx_util_plus
 
 environment:
   sdk: '>=3.1.0 <4.0.0'
