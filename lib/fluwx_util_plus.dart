@@ -1,4 +1,4 @@
-library fluwx_util;
+library fluwx_util_plus;
 
 export 'src/fluwx_worker_iml.dart';
 export 'src/response_models.dart';
